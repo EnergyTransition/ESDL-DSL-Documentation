@@ -16,7 +16,7 @@ python cli.py -f mutation_file_name -o output_file_name
 
 Documentation can be found at:
 
-https://readthedocs-docsify-test.readthedocs.io/en/latest/?#/
+https://esdl-dsl-documentation.readthedocs.io/en/latest/#/
 
 Repository can be found at:
 [ESDL-DSL Single Repo](https://ci.tno.nl/gitlab/esdl-dsl/esdl-scenario-generator-sr)
